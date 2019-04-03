@@ -6,21 +6,21 @@
         android:id="@+id/menuFirst"
         android:icon="@drawable/ic_action_logout"
         android:title="First"
-        app:showAsAction="ifRoom"/>
+        app:showAsAction="always"/>
     <item
         android:id="@+id/menuSecond"
         android:icon="@drawable/ic_action_loc"
         android:title="Second"
-        app:showAsAction="ifRoom"/>
+        app:showAsAction="always"/>
     <item
         android:id="@+id/menuLocation"
         android:icon="@drawable/ic_action_logout"
         android:title="Location"
-        app:showAsAction="ifRoom"/>
+        app:showAsAction="always"/>
 
     <item
         android:id="@+id/menuLogout"
         android:icon="@drawable/ic_action_loc"
         android:title="Logout"
-        app:showAsAction="ifRoom"/>
+        app:showAsAction="always"/>
 </menu>
